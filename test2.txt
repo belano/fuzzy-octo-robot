@@ -1,2 +1,3 @@
 New file
 line 1
+hello
